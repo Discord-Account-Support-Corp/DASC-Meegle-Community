@@ -1,7 +1,7 @@
 {
   "name": "Larksuite Meegle",
   "short_name": "Meegle",
-  "start_url": "index.html",
+  "start_url": "https://project.larksuite.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#317EFB",
