@@ -1,7 +1,7 @@
 {
   "name": "Larksuite Meegle",
   "short_name": "Meegle",
-  "start_url": "https://project.larksuite.com/",
+  "start_url": "https://project.larksuite.com/login-asset?uri=%2Ffetch-cookie-by-login%3Fauto_create%3Dtrue%26login_from%3Dhome_navbar_signIn%26oneid%3Dfaf9810d-b755-4c79-bdb0-9c6af097dc56%26scene%3Dlogin%26setlang%3Den_us%26state%3Dhttps%253A%252F%252Fwww.meegle.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#317EFB",
